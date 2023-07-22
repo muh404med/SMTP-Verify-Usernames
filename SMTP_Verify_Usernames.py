@@ -34,6 +34,6 @@ def verify_users_from_file(address, port, file_path):
 
 
 
-smtp_server_address = "192.168.56.3"
+
 smtp_server_port = 25
 verify_users_from_file(smtp_server_address, smtp_server_port, file_path)
